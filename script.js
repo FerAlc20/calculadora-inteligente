@@ -51,4 +51,5 @@ document.addEventListener('DOMContentLoaded', () => {
             divResultado.style.display = 'block';
         });
     });
+
 });
